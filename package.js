@@ -1,4 +1,5 @@
 Package.describe({
+    name: 'oscarpan:jquery-ui-nowidgets',
     summary: "jquery-ui 1.11.4 without widgets re-packaged for meteorjs",
     version: "1.11.4",
     git: "https://github.com/oscarpan/jquery-ui-nowidgets.git"
